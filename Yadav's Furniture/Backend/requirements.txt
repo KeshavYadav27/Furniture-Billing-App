@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2
+jwt
+python-decouple
+python-decouple
+PyJWT
